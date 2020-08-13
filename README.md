@@ -5,9 +5,9 @@
 <blockquote align="center">Proffy Mobile -> Projeto resultado da Next Level Week #2 @Rocketseat.</blockquote>
 
 <h1 align="center">
-    <img alt="ecoleta" src="https://i.imgur.com/ymY2b2h.jpg" width="920" heigth="518" />
-    <img alt="ecoleta" src="https://i.imgur.com/CebEbL4.jpg" width="920" heigth="518" />
-    <img alt="ecoleta" src="https://i.imgur.com/dOxxlRS.jpg" width="920" heigth="518" />
+    <img alt="ecoleta" src="https://i.imgur.com/ymY2b2h.jpg" width="200" heigth="416" />
+    <img alt="ecoleta" src="https://i.imgur.com/CebEbL4.jpg" width="200" heigth="416" />
+    <img alt="ecoleta" src="https://i.imgur.com/dOxxlRS.jpg" width="200" heigth="416" />
 </h1>
 
 ## :smiley: Aplicação para cadastro, listagem e conexões de professores.
